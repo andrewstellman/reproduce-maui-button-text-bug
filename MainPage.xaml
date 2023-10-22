@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MauiApp1.MainPage">
+
+    <ScrollView>
+        <VerticalStackLayout Padding="25" Spacing="25">
+            <Button Clicked="Button_Clicked" x:Name="Button1" Text="A" />
+            <Button Clicked="Button_Clicked" x:Name="Button2" Text="B" />
+            <Button Clicked="Button_Clicked" x:Name="Button3" Text="C" />
+            <Button Clicked="Button_Clicked" x:Name="Button4" Text="D" />
+            <Label x:Name="ButtonText"/>            
+        </VerticalStackLayout>
+    </ScrollView>
+
+</ContentPage>
