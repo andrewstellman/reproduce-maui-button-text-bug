@@ -67,3 +67,12 @@ then clicking buttons A, B, C, and D.
 * Actual: Buttons A, B, and C show text.
 
 <img width="1136" alt="image" src="https://github.com/andrewstellman/reproduce-maui-button-text-bug/assets/7516297/e71ca8c1-1b84-47fd-b167-9f0411d2f9ee">
+
+
+## Running on Windows does not reproduce the problem
+
+This screenshot shows the same code running on Windows from Visual Studio 2022 Preview. It does not exhibit the same problems.
+
+<img width="1282" alt="image" src="https://github.com/andrewstellman/reproduce-maui-button-text-bug/assets/7516297/a7697408-7cd3-4b8f-9ad4-b0bef2b1d9f2">
+
+
