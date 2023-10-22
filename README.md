@@ -69,10 +69,13 @@ then clicking buttons A, B, C, and D.
 <img width="1136" alt="image" src="https://github.com/andrewstellman/reproduce-maui-button-text-bug/assets/7516297/e71ca8c1-1b84-47fd-b167-9f0411d2f9ee">
 
 
-## Running on Windows does not reproduce the problem
+## Running on Windows or Android does not reproduce the problem
 
-This screenshot shows the same code running on Windows from Visual Studio 2022 Preview. It does not exhibit the same problems.
+This screenshot shows the same code running on Windows from Visual Studio 2022 Preview. It does not exhibit the same problem.
 
 <img width="1282" alt="image" src="https://github.com/andrewstellman/reproduce-maui-button-text-bug/assets/7516297/a7697408-7cd3-4b8f-9ad4-b0bef2b1d9f2">
 
+This screenshot shows the same code running on Android, which also does not exhibit the same problem.
+
+![image](https://github.com/andrewstellman/reproduce-maui-button-text-bug/assets/7516297/63423e02-9039-4ecb-b47e-f2fdb6f733c2)
 
